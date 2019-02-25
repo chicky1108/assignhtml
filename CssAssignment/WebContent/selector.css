@@ -1,0 +1,18 @@
+h1 {
+	font-family: calibri;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: bold;
+   color: #ff0000; 
+}
+p{
+	font-family: verdana;
+	font-size: 20px;
+	font-style: italic;
+color:#0000ff;
+}
+div{
+font-family: verdana;
+	font-size: 50px;	
+color:#cccc00;
+}
